@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moviesRecommApp/static/css/main.f96f07a4.css",
+    "main.js": "/moviesRecommApp/static/js/main.0f0d85cd.js",
+    "static/js/787.38f16daf.chunk.js": "/moviesRecommApp/static/js/787.38f16daf.chunk.js",
+    "index.html": "/moviesRecommApp/index.html",
+    "main.f96f07a4.css.map": "/moviesRecommApp/static/css/main.f96f07a4.css.map",
+    "main.0f0d85cd.js.map": "/moviesRecommApp/static/js/main.0f0d85cd.js.map",
+    "787.38f16daf.chunk.js.map": "/moviesRecommApp/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.0f0d85cd.js"
+  ]
+}
